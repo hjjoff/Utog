@@ -1,0 +1,195 @@
+body{
+    width: auto;
+    height: 90%;
+    display: flex;
+}
+.pr{
+    position: absolute;
+    width: 1000px;
+    height: 65px;
+    left: 420px;
+
+    background: #3DDAFD;
+    opacity: 0.4;
+}
+.maint{
+    position: absolute;
+    width: 197px;
+    height: 83px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+     
+    top: -10px;
+    left: 550px;
+
+    color: #000000;
+}
+.maino{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 114px;
+    height: 64px;
+
+    left: 533px;
+
+    border: 1px solid #000000;}
+
+button{
+    background: #96e9fc;
+    border: 1px solid  #000000;
+    
+}
+.kont{
+    position: absolute;
+    left: 900px;
+    top: 30px;
+}.onas{
+    position: absolute;
+    left: 1010px;
+    top: 30px;
+}
+.home{
+    position: absolute;
+    left: 1100px;
+    top: 30px;
+}
+.box1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1000px;
+    height: 724px;
+
+    left: 420px;
+    top: 71px;
+    
+    border: 1px solid #000000;
+}
+.filterob{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 118px;
+    height: 179px;
+
+    left: 302px;
+    top: 71px;
+
+    border: 1px solid rgba(0, 0, 0, 0.4);
+}
+.filterob1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 118px;
+    height: 179px;
+
+    left: 302px;
+    top: 251px;
+
+    border: 1px solid rgba(0, 0, 0, 0.4); 
+}
+.fgde{
+    position: absolute;
+    left: 320px;
+    top: 80px;
+}
+.vz{
+    position: absolute;
+    left: 315px;
+    top: 250px;
+}
+.obf{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1000px;
+    height: 295px;
+ 
+    top: 796px;
+    left: 420px;
+
+    border: 1px solid #000000;
+}
+.kontakt{
+    position: absolute;
+    width: 200px;
+    height: 24px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+
+    top: 870PX;
+    left: 550px;
+
+    color: #363535
+}
+.o_nas{
+    position: absolute;
+    width: 128px;
+    height: 24px;
+
+    top: 889px;
+    left: 1100px;
+
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+
+    color: #000000;
+}
+.pay{
+    position: absolute;
+    width: 139px;
+    height: 24px;
+
+    left: 1100px;
+    top: 950px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+
+    color: #000000;
+}
+.konts{
+    position: absolute;
+    width: 200px;
+    height: 24px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 18px;
+
+    top: 100px;
+    left: 500px;
+
+    color: #363535
+}
+.box{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1000px;
+    height: 724px;
+
+    left: 420px;
+    top: 71px;
+    
+    border: 1px solid #000000;
+}
